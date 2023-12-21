@@ -1,5 +1,4 @@
 from game_logic import CasinoGame
-
 def main():
     game = CasinoGame()
     game.start()
